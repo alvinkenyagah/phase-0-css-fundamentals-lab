@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  color: red;
+}
+
+ h1, .nav{
+  text-align: center;
+}
+
+#featured-property {
+  /* text-align: center; */
+  /* width: 800px; */
+  /* color: red; */
+  text-align: center;
+  
+
+  }
+  
+
+
+#Follow{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+#links{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+#corre{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+#contact{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
